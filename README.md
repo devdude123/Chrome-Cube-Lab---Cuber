@@ -38,7 +38,8 @@ Cuber - From Chrome Cube Lab
 > Chrome Cube Lab is built on Google App Engine, a cloud computing platform for developing and hosting web applications.
 > 	[Learn More](https://developers.google.com/appengine/)
 
-<!--# Markdown cheat sheet
+<!---
+# Markdown cheat sheet
 
 ## Text Formatting
 
@@ -87,5 +88,4 @@ This is also an H1
 
 This is also an H2
 ------------------
-
 -->
