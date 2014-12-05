@@ -38,6 +38,9 @@ Cuber - From Chrome Cube Lab
 > Chrome Cube Lab is built on Google App Engine, a cloud computing platform for developing and hosting web applications.
 > 	[Learn More](https://developers.google.com/appengine/)
 
+ALL CREDITS GO TO GOOGLE (&TRADE;&REG;&COPY;)
+==============================================
+
 <!---
 # Markdown cheat sheet
 
